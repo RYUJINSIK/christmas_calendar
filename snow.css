@@ -18,7 +18,6 @@
   0% {
     background-position: 0 0;
   }
-
   100% {
     background-position: 0px 300px;
   }
@@ -31,6 +30,5 @@
   left: 0;
   width: 100%;
   height: 100%;
-  z-index: 0;
-  /* Set a higher z-index for snow-wrap */
+  z-index: 0; /* Set a higher z-index for snow-wrap */
 }
